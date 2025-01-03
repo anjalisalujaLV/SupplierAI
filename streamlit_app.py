@@ -10,7 +10,7 @@ from langchain_community.chat_models import ChatOpenAI
 import openai
 
 
-OPENAI_API_KEY = "sk-proj-KPWxpjTZm0r6ha9Fzg00T3BlbkFJ4xBTfszal5ryeXgUkww5" 
+OPENAI_API_KEY = "" 
 st.markdown(
     """
     <style>
